@@ -24,7 +24,7 @@ export const projects = [
     des: "This is a clone of the Bewakoof E-Commerce website. The clone is complete with a Login page, Sign-in page, Pricing Page. It is an Collaborative project. Following is the link to the clone of the website.",
     demo: "",
     live: "https://bindass-bewakoof.netlify.app/",
-    gitHub: "https://github.com/akhtarvishal20/Bindass",
+    gitHub: "https://github.com/Vishaltandale987/Bindass",
     technologies: ["Java Script", "HTML", "CSS", "Chakra UI"],
   },
   {
